@@ -106,4 +106,4 @@ Proyecto desarrollado en equipo durante el **Hackathon BBVA Guadalajara 2025**, 
 
 ## 👩‍💻 Autores
 
-Desarrollado por **Asenet** **Damaris B** y **Yahir** · Mayo 2025
+Desarrollado por **Asenet**, **Damaris B** y **Yahir** · Mayo 2025
