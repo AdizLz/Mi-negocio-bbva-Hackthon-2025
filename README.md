@@ -4,7 +4,7 @@ App móvil en SwiftUI desarrollada durante el **Hackathon BBVA Guadalajara 2025*
 
 ---
 
-## 📱 Pantallas
+## Pantallas
 
 | Pantalla | Descripción |
 |---|---|
@@ -22,7 +22,7 @@ App móvil en SwiftUI desarrollada durante el **Hackathon BBVA Guadalajara 2025*
 
 ---
 
-## 🗺 Flujo de onboarding
+## Flujo de onboarding
 
 ```
 Bienvenida (Register)
@@ -35,7 +35,7 @@ Bienvenida (Register)
 
 ---
 
-## 🗂 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 InicioBBVA/
@@ -62,7 +62,7 @@ InicioBBVA/
 
 ---
 
-## 🤖 Chatbot financiero
+## Chatbot financiero
 
 El asistente responde **sin necesidad de conexión a internet** — toda la base de conocimientos vive en `datoschatbot.json`. Puede ayudar con:
 
@@ -80,7 +80,7 @@ El asistente responde **sin necesidad de conexión a internet** — toda la base
 
 ---
 
-## ⚙️ Requisitos
+## Requisitos
 
 - Xcode 15 o superior
 - iOS 17+
@@ -88,7 +88,7 @@ El asistente responde **sin necesidad de conexión a internet** — toda la base
 
 ---
 
-## 📦 Frameworks utilizados
+## Frameworks utilizados
 
 - `SwiftUI` — Interfaz de usuario
 - `MapKit` — Mapa de zonas de oportunidad
@@ -98,12 +98,12 @@ El asistente responde **sin necesidad de conexión a internet** — toda la base
 
 ---
 
-## 🏆 Contexto
+## Contexto
 
 Proyecto desarrollado en equipo durante el **Hackathon BBVA Guadalajara 2025**, con el objetivo de facilitar la formalización y el acceso a servicios financieros para micro y pequeños empresarios en México.
 
 ---
 
-## 👩‍💻 Autores
+## Autores
 
 Desarrollado por **Asenet**, **Damaris B** y **Yahir** · Mayo 2025
