@@ -98,6 +98,11 @@ El asistente responde **sin necesidad de conexión a internet** — toda la base
 
 ---
 
+<img width="1920" height="1080" alt="bbva1" src="https://github.com/user-attachments/assets/b200c451-998a-46d2-9fac-f223cb6371f6" />
+<img width="1920" height="1080" alt="bbva2" src="https://github.com/user-attachments/assets/feea460f-f292-43fb-8eaa-36e14be3df55" />
+<img width="1920" height="1080" alt="bbva3" src="https://github.com/user-attachments/assets/0736bb5b-ba7c-4bd2-a439-811272f11b6a" />
+
+
 ## Contexto
 
 Proyecto desarrollado en equipo durante el **Hackathon BBVA Guadalajara 2025**, con el objetivo de facilitar la formalización y el acceso a servicios financieros para micro y pequeños empresarios en México.
