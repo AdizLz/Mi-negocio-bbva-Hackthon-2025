@@ -1,4 +1,4 @@
-# 🏦 InicioBBVA — App iOS para MiPyMES
+# 🏦 Mi negocio bbva — App iOS para MiPyMES - Swift Changemakers Hackthon Mayo 2025 
 
 App móvil en SwiftUI desarrollada durante el **Hackathon BBVA Guadalajara 2025**. Ayuda a micro, pequeñas y medianas empresas a formalizarse, conocer sus opciones financieras y acceder a productos BBVA adaptados a su tamaño y giro.
 
